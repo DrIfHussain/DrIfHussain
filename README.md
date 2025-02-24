@@ -20,7 +20,7 @@ Team Lead
 | Research Interests | Google Scholar Information |
 | --- | --- |
 | - 🔬 Mechatronics | - **📚 Citations:** 2000+ <!-- Replace with your actual citation count --> |
-| - 🧬 Rehabilitation | - **📈 H-Index:** 24 <!-- Replace with your actual H-Index --> |
+| - 🧬 Rehabilitation | - **📈 H-Index:** 25 <!-- Replace with your actual H-Index --> |
 | - 🤖 Prosthesis | - **📄 Total Articles:** 100+ <!-- Replace with your actual total articles --> |
 | - 🌐 Grasping | - **🔗 Profile:** [Google Scholar Profile](https://scholar.google.com/citations?user=bCC3kdUAAAAJ&hl=en) |
 
